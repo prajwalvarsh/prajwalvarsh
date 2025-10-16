@@ -4,7 +4,7 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/prajwalvarsh">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Prajwal+A+Varsh!;🎓+Grad+Student+@Uni+Bamberg;🤖+Building+AI+%2B+Design+Systems;🚀+Always+learning+and+exploring+new+ideas" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=👋+Hi+there!+I'm+Prajwal+AmoghaVarsh!;🎓+Grad+Student+@Uni+Bamberg;🤖+Building+AI+%2B+Design+Systems;🚀+Always+learning+and+exploring+new+ideas" alt="Typing SVG" />
   </a>
 </p>
 
@@ -28,7 +28,7 @@
 ## ⚙️ Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,fastapi,docker,git,github,vscode,linux,html,css,postgresql,mongodb,aws" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,fastapi,docker,git,github,vscode,linux,postgresql,mongodb,aws,pandas,numpy,oracle,dbt" />
 </p>
 
 ---
