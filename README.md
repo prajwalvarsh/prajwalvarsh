@@ -10,6 +10,13 @@
 
 ---
 
+## ⚙️ Tech Toolbox  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,fastapi,docker,git,github,vscode,linux,postgresql,mongodb,aws,pandas,numpy,oracle,dbt" />
+</p>
+---
+
 ## 🧭 About Me
 
 🎓 **Graduate Student** at *University of Bamberg*  
@@ -23,13 +30,7 @@
 📚 **Currently Learning**  
 `MLOps` • `Fine-tuning LLMs` • `PyTorch` • `CI/CD` • `Agentic Workflows`  
 
----
 
-## ⚙️ Tech Toolbox  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,fastapi,docker,git,github,vscode,linux,postgresql,mongodb,aws,pandas,numpy,oracle,dbt" />
-</p>
 
 ---
 
