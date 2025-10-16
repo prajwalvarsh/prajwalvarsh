@@ -44,20 +44,6 @@
 
 ---
 
-## 📈 GitHub Analytics  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prajwalvarsh&show_icons=true&theme=radical&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajwalvarsh&theme=radical" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalvarsh&layout=compact&theme=radical&langs_count=10" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prajwalvarsh&theme=radical" />
-</p>
-
----
-
 ## 🧠 Research Interests
 
 > *“AI isn’t just a tool — it’s a collaborator in design.”*
