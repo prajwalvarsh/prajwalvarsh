@@ -58,7 +58,7 @@
 ## 🏆 Certifications & Achievements  
 
 - 🎓 **Deep Learning Specialization** – Coursera (Andrew Ng)  
-- 📘 **Python for Data Science** – IBM  
+- 📘 **Oracle Cloud Infrastructure 2025 Certified Generative AI Professional** – Oracle
 - 🧩 **MLOps Essentials** – Google Cloud Skills Boost  
 - 🏅 **Top 5% in Kaggle Energy Forecasting Challenge (2024)**  
 
