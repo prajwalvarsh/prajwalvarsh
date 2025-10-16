@@ -35,12 +35,12 @@
 
 ## 🌟 Featured Projects
 
-| 🚧 Project | 💡 Description | 🧠 Stack | 🔗 Link |
-|-------------|----------------|------------|----------|
-| 🧠 **From Crude to Crafted** | Master’s thesis project integrating AI for participatory design artefact refinement | Python, LLMs, NLP, Visual Analytics | — |
-| 🤖 **PrajwalGPT** | Context-aware personal chatbot with domain adaptation and local LLM setup via Docker | FastAPI, Ollama, LangChain | [View Repo](https://github.com/prajwalvarsh/PrajwalGPT) |
-| 📊 **Energy Forecasting LSTM** | Neural network predicting day-ahead German energy prices using multi-feature LSTM | PyTorch, Pandas, Matplotlib | — |
-| 📰 **ArXiv Paper Curator + RAG** | RAG-based system for summarizing transformer research papers | LangChain, ChromaDB, FastAPI | — |
+| 🚧 Project | 💡 Description | 🧠 Stack |
+|-------------|----------------|------------|
+| 🧠 **From Crude to Crafted** | Master’s thesis project integrating AI for participatory design artefact refinement | Python, LLMs, NLP, Visual Analytics |
+| 🤖 **PrajwalGPT** | Context-aware personal chatbot with domain adaptation and local LLM setup via Docker | FastAPI, Ollama, LangChain |
+| 📊 **Energy Forecasting LSTM** | Neural network predicting day-ahead German energy prices using multi-feature LSTM | PyTorch, Pandas, Matplotlib | 
+| 📰 **ArXiv Paper Curator + RAG** | RAG-based system for summarizing transformer research papers | LangChain, ChromaDB, FastAPI |
 
 ---
 
