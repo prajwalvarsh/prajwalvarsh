@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEEB&height=230&section=header&text=Prajwal%20A%20Varsh%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:87CEEB&height=230&section=header&text=Prajwal%20Amoghavarsh%20👨‍💻&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <!-- Typing animation -->
 <p align="center">
