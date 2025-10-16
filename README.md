@@ -13,7 +13,7 @@
 ## ⚙️ Tech Toolbox  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,fastapi,docker,git,github,vscode,linux,postgresql,mongodb,aws,pandas,numpy,oracle,dbt" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,js,react,fastapi,docker,git,github,vscode,linux,postgresql,mongodb,aws,pandas,numpy,tensorflow,opencv" />
 </p>
 
 ---
